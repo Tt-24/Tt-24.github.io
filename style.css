@@ -30,6 +30,13 @@ a {
   width: 30%;
   font-size: 16px;
 }
+.btn {
+    text-decoration: none;
+    background:#EF233C;
+    color: white;
+    padding: 10px;
+    display: inline-block;
+}
 
 /* header {
     display: flex;
