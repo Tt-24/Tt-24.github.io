@@ -163,7 +163,7 @@ main div.about-wrapper {
 
 footer div.contact-wrapper {
     display:grid; 
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
 }
 
@@ -191,6 +191,15 @@ h5 a:hover {
 #mailicon:hover {
     transform: scale(1.5);
 }
+
+#githubicon {
+    width: 50px;
+    padding-top: 25px;
+}
+
+#githubicon:hover {
+    transform: scale(1.5);
+} 
 
 #linkedinicon {
     width: 40px;
